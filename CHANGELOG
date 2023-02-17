@@ -1,2 +1,5 @@
-tag-1.0.0 20230217 JP
+v1.0.1 20230217 JP
+  - Fix APP_CONFIG -> DJANGO_CONF variable
+
+v1.0.0 20230217 JP
   - Initial Implementation, just current news from operations.access-ci.org, not XSEDE news
