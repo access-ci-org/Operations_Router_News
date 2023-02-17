@@ -1,3 +1,6 @@
+v1.0.2 20230217 JP
+  - Reverse v1.0.1, we had an obsolete Operations_Warehouse_Django that referenced DJANGO_CONF
+
 v1.0.1 20230217 JP
   - Fix APP_CONFIG -> DJANGO_CONF variable
 
