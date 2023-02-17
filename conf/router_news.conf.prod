@@ -1,0 +1,11 @@
+{
+    "DESTINATION": "warehouse",
+    "SOURCE_URL": "https://operations.access-ci.org/api/infrastructure_news",
+    "LOG_FILE": "%APP_HOME%/%APP_NAME%.log",
+    "AFFILIATION": "access-ci.org",
+    "ORGANIZATIONID": "16236",
+    "NEWSURNPREFIX": "urn:ogf.org:glue2:operations.access-ci.org:news:",
+    "LOG_LEVEL": "warning",
+    "RUN_DIR": "%APP_HOME%/var",
+    "PID_FILE": "%APP_HOME%/var/%APP_NAME%.pid"
+}
